@@ -10,4 +10,4 @@
 -->
 # Wind Boxes
 
-Wind Boxes is a css module styled component process tool for tailwind css. You can crate multi components and don't need add any css.
+Wind Boxes is a styled component process tool for tailwind css & css module. You can crate multi components and don't need add any css.
