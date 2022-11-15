@@ -10,4 +10,15 @@
 -->
 # Wind Boxes
 
-Wind Boxes is a styled component process tool for tailwind css & css module. You can crate multi components and don't need add any css.
+## Introduction
+Wind Boxes is a tool for create tailwind & css modules components.
+
+You also can inject new class into css modules file.
+
+You can use **array**, **string** and **sx prop** to change style and create a component.
+
+### Core
+is here: [`@windboxes/core`](./packages/core)
+
+### React
+Now you can try [`@windboxes/react`](./packages/react)
