@@ -18,7 +18,7 @@ You also can inject new class into css modules file.
 You can use **array**, **string** and **sx prop** to change style and create a component.
 
 ### Core
-is here: [`@windboxes/core`](./packages/core)
+is here: [`@windboxes/core`](/core/packages/core)
 
 ### React
-Now you can try [`@windboxes/react`](./packages/react)
+Now you can try [`@windboxes/react`](/core/packages/react)
