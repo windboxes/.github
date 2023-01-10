@@ -22,3 +22,8 @@ is here: [`@windboxes/core`](https://github.com/windboxes/core)
 
 ### React
 Now you can try [`@windboxes/react`](https://github.com/windboxes/core/packages/react)
+
+
+
+## Example
+[example is here](https://github.com/windboxes/example)
